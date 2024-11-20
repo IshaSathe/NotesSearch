@@ -1,0 +1,19 @@
+Class
+Physics
+
+Date
+2024-09-26
+
+Topic
+Buoyancy
+
+Notes
+Buoyancy is the upward force exerted by a fluid (liquid or gas) on an object placed in it, counteracting the weight of the object.
+
+Archimedes' principle states that the buoyant force on an object is equal to the weight of the fluid it displaces.
+
+An object will float in a fluid if the buoyant force is equal to or greater than its weight; it will sink if the buoyant force is less.
+
+The density of the object relative to the density of the fluid determines whether it will float or sink; objects with lower density than the fluid will float.
+
+Buoyancy plays a key role in designing ships, submarines, hot air balloons, and other objects that need to float or be submerged in a controlled manner.

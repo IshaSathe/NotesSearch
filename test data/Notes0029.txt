@@ -1,0 +1,19 @@
+Class
+Algebra
+
+Date
+2024-11-17
+
+Topic
+Inequalities
+
+Notes
+Inequalities show a relationship where one value is greater than, less than, greater than or equal to, or less than or equal to another value, using symbols like >, <, ≥, and ≤.
+
+If you multiply or divide both sides of an inequality by a negative number, you must reverse the inequality sign for it to remain valid.
+
+Inequalities can represent a range of solutions, often expressed as intervals or compound inequalities, such as 2 < x ≤ 5.
+
+Graphical representations of inequalities on a number line use open or closed circles to indicate whether endpoints are included (closed for ≤ or ≥, open for < or >).
+
+Adding or subtracting the same value on both sides of an inequality does not affect the direction of the inequality.

@@ -1,0 +1,19 @@
+Class
+Biology
+
+Date
+2024-11-11
+
+Topic
+Genes
+
+Notes
+Genes are units of heredity made up of DNA that carry instructions for the development, function, and reproduction of living organisms.
+
+Each gene provides the code to produce specific proteins, which perform most of the functions in cells and determine traits.
+
+Humans have approximately 20,000 to 25,000 genes located on 23 pairs of chromosomes in the nucleus of most cells.
+
+Genes can exist in different forms called alleles, which contribute to variations in traits among individuals.
+
+Mutations in genes can lead to changes in protein production, sometimes causing genetic disorders or contributing to the evolution of species.

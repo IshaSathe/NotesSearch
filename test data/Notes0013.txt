@@ -1,0 +1,19 @@
+Class
+Chemistry
+
+Date
+2024-09-19
+
+Topic
+Stoichiometry
+
+Notes
+Stoichiometry is the branch of chemistry that deals with the quantitative relationships between reactants and products in a chemical reaction.
+
+It is based on the law of conservation of mass, which states that matter cannot be created or destroyed in a chemical reaction, ensuring the mass of reactants equals the mass of products.
+
+Stoichiometry uses mole ratios derived from a balanced chemical equation to calculate the amount of one substance required or produced when another is consumed.
+
+Limiting reactants are identified in stoichiometry to determine the maximum amount of product that can be formed in a reaction.
+
+Stoichiometric calculations often involve conversions between grams, moles, and molecules using molar masses and Avogadro's number.

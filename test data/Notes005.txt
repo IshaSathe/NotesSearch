@@ -1,0 +1,29 @@
+Class
+Computer Science
+
+Date
+2024-10-29
+
+Topic
+Python
+
+Notes
+Python is a high-level, interpreted programming language known for its simplicity and readability, making it beginner-friendly.
+
+It was created by Guido van Rossum and first released in 1991.
+
+Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
+
+It has a vast standard library and numerous third-party libraries, making it versatile for tasks like web development, data analysis, machine learning, and automation.
+
+Python uses dynamic typing, meaning variables do not require explicit declaration of their data types.
+
+Its indentation-based syntax enforces code readability and eliminates the need for braces or keywords to define code blocks.
+
+Python has two major versions: Python 2 (now deprecated) and Python 3, which is the current version actively maintained and developed.
+
+It is widely used in fields such as data science, artificial intelligence, web development, scientific computing, and scripting.
+
+Python has a large and active community that provides extensive support, documentation, and resources for developers.
+
+Popular frameworks and libraries like Django, Flask, NumPy, Pandas, TensorFlow, and Matplotlib extend Python's functionality for specialized tasks.

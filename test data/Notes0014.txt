@@ -1,0 +1,19 @@
+Class
+Chemistry
+
+Date
+2024-10-22
+
+Topic
+Periodic Table
+
+Notes
+The periodic table organizes elements based on their atomic number, which is the number of protons in an atom's nucleus.
+
+Elements in the same column (group) have similar chemical properties because they share the same number of valence electrons.
+
+The rows (periods) of the periodic table represent the energy levels of an atom’s electrons, with elements in the same period having electrons in the same principal energy level.
+
+The periodic table is divided into metals, nonmetals, and metalloids based on their physical and chemical properties.
+
+Transition metals, found in the center of the periodic table, often have variable oxidation states and form colored compounds.

@@ -1,0 +1,29 @@
+Class
+Geometry
+
+Date
+2024-10-13
+
+Topic
+Quadrilaterals
+
+Notes
+A quadrilateral is a polygon with four sides, four vertices, and four angles.
+
+The sum of the interior angles of any quadrilateral is always 360 degrees.
+
+Quadrilaterals can be classified into several types, including squares, rectangles, rhombuses, parallelograms, trapezoids, and kites.
+
+A parallelogram is a quadrilateral where opposite sides are parallel and equal in length.
+
+A rectangle is a type of parallelogram where all angles are 90 degrees.
+
+A square is a special type of rectangle and rhombus where all sides are equal and all angles are 90 degrees.
+
+A trapezoid (or trapezium) has at least one pair of parallel sides, which are called the bases.
+
+A rhombus is a parallelogram where all sides are equal in length, and opposite angles are equal.
+
+A kite is a quadrilateral with two pairs of adjacent sides that are equal in length.
+
+The diagonals of a quadrilateral may have special properties depending on the type; for example, in a parallelogram, diagonals bisect each other, and in a rhombus, they intersect at right angles.

@@ -1,0 +1,29 @@
+Class
+English
+
+Date
+2024-09-30
+
+Topic
+Grammar
+
+Notes
+Grammar is the set of rules that govern the structure of a language, including how words are arranged into sentences.
+
+Sentences are composed of clauses, which are groups of words that contain a subject and a predicate.
+
+Parts of speech include nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, and interjections.
+
+Subject-verb agreement ensures that the verb matches the subject in number (singular or plural) and person.
+
+Tenses in grammar indicate the time of an action or state, such as past, present, or future.
+
+Articles (a, an, the) are used to specify nouns as definite or indefinite.
+
+Pronouns replace nouns to avoid repetition and can be subjective, objective, possessive, or reflexive.
+
+Adjectives describe or modify nouns, while adverbs describe or modify verbs, adjectives, or other adverbs.
+
+Punctuation plays a critical role in grammar by clarifying meaning and separating sentence elements.
+
+Sentence structure is categorized into simple, compound, complex, and compound-complex sentences based on the number and type of clauses.

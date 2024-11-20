@@ -1,0 +1,29 @@
+Class
+Economics
+
+Date
+2024-09-11
+
+Topic
+Inflation
+
+Notes
+Inflation is the rate at which the general level of prices for goods and services rises, causing the purchasing power of money to decrease over time.
+
+It is measured using indexes such as the Consumer Price Index (CPI) or the Producer Price Index (PPI).
+
+Moderate inflation is a normal part of a healthy economy, encouraging spending and investment instead of hoarding money.
+
+Hyperinflation occurs when inflation rises uncontrollably and drastically, leading to the collapse of a currency’s value.
+
+Deflation, the opposite of inflation, occurs when prices decrease over time, often signaling economic trouble.
+
+Central banks, such as the Federal Reserve, use monetary policies like adjusting interest rates to control inflation.
+
+Demand-pull inflation happens when demand for goods and services exceeds supply, driving up prices.
+
+Cost-push inflation occurs when the costs of production (like wages or raw materials) increase, leading businesses to raise prices.
+
+Inflation erodes savings and fixed incomes, as the money saved buys less over time.
+
+Governments often set inflation targets (e.g., 2% annually) to balance economic growth with stable prices.

@@ -1,0 +1,29 @@
+Class
+Algebra
+
+Date
+2024-11-17
+
+Topic
+Quadratic Functions
+
+Notes
+A quadratic function is expressed as f(x) = ax^2 + bx + c, where a ≠ 0. The constants a, b, and c define the function's properties.
+
+The graph of a quadratic function is a parabola. It opens upwards if a > 0 and downwards if a < 0.
+
+The vertex of a quadratic function is the highest or lowest point on the parabola. Its x-coordinate is found using the formula x = -b/(2a).
+
+The axis of symmetry is a vertical line passing through the vertex, with the equation x = -b/(2a).
+
+The roots or zeros of a quadratic function are the x-values where f(x) = 0. These can be calculated using factoring, completing the square, or the quadratic formula.
+
+The discriminant, given by Δ = b^2 - 4ac, determines the number and type of roots. If Δ > 0, there are two real roots. If Δ = 0, there is one real root. If Δ < 0, there are no real roots.
+
+The y-intercept is the value of the function when x = 0. It is given by c, the constant term.
+
+A quadratic function can also be expressed in vertex form: f(x) = a(x - h)^2 + k, where (h, k) is the vertex.
+
+The maximum or minimum value of a quadratic function occurs at the vertex. If a > 0, the vertex gives the minimum value. If a < 0, it gives the maximum value.
+
+The parabola defined by a quadratic function has a geometric property where every point is equidistant from a fixed point called the focus and a fixed line called the directrix.

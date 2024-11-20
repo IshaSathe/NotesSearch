@@ -1,0 +1,29 @@
+Class
+Biology
+
+Date
+2024-10-14
+
+Topic
+DNA
+
+Notes
+DNA, or deoxyribonucleic acid, is the molecule that carries the genetic instructions for the development, functioning, growth, and reproduction of all known living organisms.
+
+DNA is composed of two long strands forming a double helix, with each strand made of repeating units called nucleotides.
+
+Each nucleotide consists of a sugar molecule (deoxyribose), a phosphate group, and a nitrogenous base.
+
+The four nitrogenous bases in DNA are adenine (A), thymine (T), cytosine (C), and guanine (G), where A pairs with T and C pairs with G through hydrogen bonds.
+
+DNA is found in the nucleus of eukaryotic cells and in the cytoplasm of prokaryotic cells.
+
+DNA replication is the process by which DNA makes a copy of itself during cell division, ensuring genetic information is passed to daughter cells.
+
+Genes are segments of DNA that code for proteins, which are essential for the structure and function of an organism.
+
+Mutations are changes in the DNA sequence that can result in genetic variation, diseases, or evolutionary adaptations.
+
+DNA is compactly organized into chromosomes in the nucleus, and humans have 23 pairs of chromosomes.
+
+The entire set of an organism's DNA, including all its genes, is called the genome, and it contains all the information needed to build and maintain that organism.

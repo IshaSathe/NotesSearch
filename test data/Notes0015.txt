@@ -1,0 +1,29 @@
+Class
+Chemistry
+
+Date
+2024-08-23
+
+Topic
+Atoms
+
+Notes
+Atoms are the basic building blocks of matter, composed of three main subatomic particles: protons, neutrons, and electrons.
+
+The nucleus of an atom, located at its center, contains protons and neutrons and holds most of the atom’s mass.
+
+Electrons orbit the nucleus in regions called electron clouds or shells, with their arrangement determining the chemical properties of the atom.
+
+The number of protons in an atom’s nucleus defines its atomic number and determines the element (e.g., hydrogen has 1 proton, oxygen has 8).
+
+Neutrons have no charge and contribute to the atom’s mass, helping to stabilize the nucleus.
+
+Isotopes are atoms of the same element that have different numbers of neutrons, leading to different atomic masses.
+
+Electrons are negatively charged and are involved in chemical bonding and reactions.
+
+Atoms are mostly empty space, with the nucleus being extremely dense and the electrons occupying vast regions around it.
+
+Atoms can combine to form molecules through chemical bonds such as covalent, ionic, or metallic bonds.
+
+The periodic table organizes elements based on their atomic number, grouping atoms with similar properties into families and periods.

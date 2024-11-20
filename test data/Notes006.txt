@@ -1,0 +1,29 @@
+Class
+Computer Science
+
+Date
+2024-08-22
+
+Topic
+Java
+
+Notes
+Java is a high-level, object-oriented programming language developed by Sun Microsystems and released in 1995.
+
+Java is platform-independent, meaning programs written in Java can run on any device with a Java Virtual Machine (JVM) using the principle "write once, run anywhere."
+
+Java uses a syntax similar to C++ but simplifies many complex features, making it easier for developers to write robust applications.
+
+Java programs are compiled into bytecode, which the JVM interprets, allowing it to run on different platforms.
+
+Java is widely used for developing web applications, mobile apps (particularly Android), desktop software, and enterprise-level applications.
+
+Java provides automatic memory management with garbage collection, which helps prevent memory leaks by reclaiming unused memory.
+
+Java has a rich standard library known as the Java API, which includes tools for networking, database access, graphical user interfaces, and more.
+
+Java supports multithreading, allowing programs to perform multiple tasks simultaneously for better performance in complex applications.
+
+Java is backward-compatible, meaning newer versions of the language usually support code written in older versions.
+
+Popular frameworks and tools built on Java include Spring, Hibernate, Apache Tomcat, and the Android SDK, making it versatile and essential in software development.

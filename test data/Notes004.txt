@@ -1,0 +1,19 @@
+Class
+Computer Science
+
+Date
+2024-09-15
+
+Topic
+Databases
+
+Notes
+A database is an organized collection of data that allows for efficient storage, retrieval, and management of information.
+
+Databases are managed using Database Management Systems (DBMS), such as MySQL, PostgreSQL, MongoDB, and Oracle.
+
+Databases can be classified into different types, including relational, non-relational (NoSQL), hierarchical, and object-oriented databases.
+
+In relational databases, data is stored in tables with rows and columns, and relationships between data are managed using keys (primary and foreign keys).
+
+Databases are designed to ensure data integrity, security, and efficient access through features like transactions, indexing, and access controls.

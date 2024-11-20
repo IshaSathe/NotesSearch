@@ -1,0 +1,29 @@
+Class
+Calculus
+
+Date
+2024-10-28
+
+Topic
+Derivatives
+
+Notes
+A derivative represents the rate of change of a function with respect to one of its variables.
+
+The derivative of a function at a point is the slope of the tangent line to the graph of the function at that point.
+
+The process of finding a derivative is called differentiation.
+
+The power rule states that if f(x) = x^n, then the derivative f'(x) = n * x^(n-1).
+
+The product rule is used to differentiate the product of two functions: if u(x) and v(x) are functions, then (uv)' = u'v + uv'.
+
+The quotient rule is used to differentiate the division of two functions: if u(x) and v(x) are functions, then (u/v)' = (u'v - uv') / v^2.
+
+The chain rule is used to differentiate composite functions: if y = f(g(x)), then dy/dx = f'(g(x)) * g'(x).
+
+A second derivative represents the rate of change of the first derivative and provides information about the concavity of the function.
+
+Critical points, where the derivative equals zero or is undefined, help identify maximum, minimum, or saddle points of a function.
+
+Derivatives have practical applications in physics, engineering, economics, and other fields for modeling rates of change, optimizing systems, and analyzing motion.

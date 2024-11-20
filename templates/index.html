@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elasticsearch Web App</title>
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace, sans-serif;
+            margin: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        input, textarea, button, select {
+            font-family: 'Courier New', Courier, monospace, sans-serif;
+            margin: 10px 0;
+        }
+
+        section {
+            width: 100%;
+            max-width: 600px;
+        }
+
+        #output {
+            margin-top: 20px;
+            width: 100%;
+        }
+
+        .result-box {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 15px;
+            box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
+            background-color: #ddd;
+            text-align: left;
+        }
+
+        .result-box h2 {
+            margin: 0;
+            font-size: 1.2em;
+        }
+
+        .result-box h3 {
+            margin: 5px 0;
+            font-size: 1em;
+            color: #666;
+        }
+
+        .result-box p {
+            margin: 5px 0;
+        }
+
+        .result-box .date {
+            font-size: 0.9em;
+            color: #999;
+        }
+
+        #titleImage {
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+        height: auto;
+        width: 700px;
+    }
+    </style>
+</head>
+<body>
+    <img src="{{ url_for('static', filename='title.png') }}" alt="NoteSearch" id="titleImage">
+
+
+    <!-- Form to upload files -->
+    <section>
+        <h2>Upload Your Notes</h2>
+        <form id="fileForm" enctype="multipart/form-data">
+            <input type="file" id="file" name="file" accept="application/txt" multiple>
+            <button type="button" onclick="uploadNotes()">Upload Notes</button>
+        </form>
+    </section>
+
+    <!-- Form to Search Documents -->
+    <section>
+        <h2>Search</h2>
+        <form id="searchForm">
+            <label for="field">Search By:</label>
+            <select id="field" name="field">
+                <option value="class">Class</option>
+                <option value="date">Date</option>
+                <option value="topic">Topic</option>
+                <option value="notes">All Notes</option>
+            </select>
+
+            <br>
+            <input type="text" id="query" name="query" placeholder="Enter your search query" required>
+
+            <button type="button" onclick="search()">Search</button>
+        </form>
+    </section>
+
+    <!-- Output Section -->
+    <section id="output">
+        <h2>Results</h2>
+        <div id="resultsContainer"></div>
+    </section>
+
+    <script>
+        const resultsContainer = document.getElementById("resultsContainer");
+
+        // function to send files to backend and get response
+        async function uploadNotes() {
+            const form = document.getElementById("fileForm");
+            const formData = new FormData(form);
+
+            // send POST request to upload route
+            const response = await fetch("/upload", {
+                method: "POST",
+                body: formData
+            });
+
+            // get json response from API
+            const result = await response.json();
+            
+            // pretty the response in card format
+            resultsContainer.innerHTML = "";
+            if (result && result.length > 0) {
+                result.forEach(upload => {
+                    const box = document.createElement("div");
+                    box.className = "result-box";
+
+                    const fileElement = document.createElement("h2");
+                    fileElement.textContent = `File: ${upload.filename || "Unknown File"}`;
+                    box.appendChild(fileElement);
+
+                    const idElement = document.createElement("h3");
+                    idElement.textContent = `ID: ${upload.id || "Unknown ID"}`;
+                    box.appendChild(idElement);
+
+                    const messageElement = document.createElement("p");
+                    messageElement.textContent = upload.message || "No message provided";
+                    box.appendChild(messageElement);
+
+                    resultsContainer.appendChild(box);
+                });
+            } else {
+                resultsContainer.innerHTML = "<p>No documents uploaded successfully.</p>";
+            }
+        }
+
+        // function to send search to backend
+        async function search() {
+            const field = document.getElementById("field").value;
+            const query = document.getElementById("query").value;
+
+            const payload = { field, query };
+
+            // send POST request to search route 
+            const response = await fetch("/search", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify(payload)
+            });
+
+            // get json response from API
+            const result = await response.json();
+            
+            // pretty the response in card format
+            resultsContainer.innerHTML = "";
+            if (result && result.length > 0) {
+                result.forEach(doc => {
+                    const source = doc._source;
+
+                    const box = document.createElement("div");
+                    box.className = "result-box";
+
+                    const classElement = document.createElement("h2");
+                    classElement.textContent = source.class || "Unknown Class";
+                    box.appendChild(classElement);
+
+                    const topicElement = document.createElement("h3");
+                    topicElement.textContent = source.topic || "No Topic";
+                    box.appendChild(topicElement);
+
+                    const dateElement = document.createElement("p");
+                    dateElement.className = "date";
+                    dateElement.textContent = `Date: ${source.date || "Unknown Date"}`;
+                    box.appendChild(dateElement);
+
+                    const notesElement = document.createElement("p");
+                    notesElement.innerHTML = (source.notes || "No Notes").replace(/\n/g, "<br>");
+                    box.appendChild(notesElement);
+
+                    resultsContainer.appendChild(box);
+                });
+            } else {
+                resultsContainer.innerHTML = "<p>No results found.</p>";
+            }
+        }
+    </script>
+</body>
+</html>

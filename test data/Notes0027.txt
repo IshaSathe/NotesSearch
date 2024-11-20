@@ -1,0 +1,19 @@
+Class
+Algebra
+
+Date
+2024-11-14
+
+Topic
+Variables
+
+Notes
+Variables are symbols, usually letters, that represent unknown or changeable values in algebraic expressions and equations.
+
+A variable can take on different values depending on the context, making it a key tool for generalizing mathematical relationships.
+
+Variables can be combined with constants and other variables using operations like addition, subtraction, multiplication, and division to form algebraic expressions.
+
+When solving equations, the goal is often to find the value of a variable that makes the equation true.
+
+Variables are classified as independent or dependent in functions, where the independent variable determines the value of the dependent variable.

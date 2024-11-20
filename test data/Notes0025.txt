@@ -1,0 +1,19 @@
+Class
+Geometry
+
+Date
+2024-11-12
+
+Topic
+Proofs
+
+Notes
+Geometry proofs are logical arguments that use definitions, theorems, postulates, and previously proven statements to show that a conclusion is true.
+
+Proofs are written in a structured format, often as two-column proofs (statements and reasons) or paragraph proofs, to ensure clarity and logical flow.
+
+Proofs rely on basic geometric principles such as congruence, similarity, parallel lines, and properties of shapes to establish the truth of a statement.
+
+Every proof begins with given information and proceeds through a series of justified steps to reach the conclusion.
+
+Indirect proofs, also known as proofs by contradiction, involve assuming the opposite of the desired conclusion, then showing that this assumption leads to a contradiction.

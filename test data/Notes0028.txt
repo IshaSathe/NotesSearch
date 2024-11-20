@@ -1,0 +1,19 @@
+Class
+Algebra
+
+Date
+2024-11-15
+
+Topic
+Linear Lines
+
+Notes
+A linear line represents a relationship between two variables with a constant rate of change and is described by the equation y = mx + b, where m is the slope and b is the y-intercept.
+
+The slope (m) of a linear line determines its steepness and direction; a positive slope means the line rises as x increases, while a negative slope means it falls.
+
+The y-intercept (b) is the point where the line crosses the y-axis, representing the value of y when x is zero.
+
+Linear lines have a constant slope, meaning the rate of change between any two points on the line remains the same.
+
+Parallel linear lines have the same slope, while perpendicular linear lines have slopes that are negative reciprocals of each other.

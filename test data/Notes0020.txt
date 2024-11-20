@@ -1,0 +1,19 @@
+Class
+Calculus
+
+Date
+2024-10-25
+
+Topic
+Integrals
+
+Notes
+Integrals are a fundamental concept in calculus used to calculate areas under curves, accumulated quantities, and antiderivatives.
+
+There are two main types of integrals: definite integrals, which calculate a specific numerical value over an interval, and indefinite integrals, which represent a family of functions.
+
+The definite integral of a function over an interval [a, b] is denoted as ∫[a to b] f(x) dx and can be interpreted as the signed area between the curve and the x-axis.
+
+The process of finding an integral is called integration, which is the reverse operation of differentiation.
+
+The Fundamental Theorem of Calculus links differentiation and integration, stating that the definite integral of a function over [a, b] can be calculated using its antiderivative as F(b) - F(a).

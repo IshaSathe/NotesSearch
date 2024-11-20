@@ -1,0 +1,29 @@
+Class
+Physics
+
+Date
+2024-09-25
+
+Topic
+Gravity
+
+Notes
+Gravity is a natural force that attracts two objects with mass toward each other.
+
+The strength of gravity depends on the masses of the objects and the distance between them, as described by Newton's law of universal gravitation.
+
+Gravity is the weakest of the four fundamental forces of nature but has an infinite range.
+
+The acceleration due to gravity on Earth is approximately 9.8 m/s² near the surface.
+
+Isaac Newton formulated the law of universal gravitation, and Albert Einstein later expanded the understanding of gravity with his general theory of relativity.
+
+Einstein's theory describes gravity as the curvature of spacetime caused by the presence of mass and energy.
+
+Gravity is responsible for keeping planets in orbit around stars, moons around planets, and galaxies together.
+
+Black holes are regions of space with such strong gravity that nothing, not even light, can escape from them.
+
+Weight is the force of gravity acting on an object's mass and varies depending on the strength of the gravitational field.
+
+Microgravity occurs in environments like the International Space Station, where objects experience very weak gravitational forces, creating the sensation of weightlessness.

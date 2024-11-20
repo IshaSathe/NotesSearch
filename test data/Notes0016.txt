@@ -1,0 +1,19 @@
+Class
+Linear Algebra
+
+Date
+2024-08-18
+
+Topic
+Matrix
+
+Notes
+A matrix is a rectangular array of numbers, symbols, or expressions arranged in rows and columns, used to represent data or mathematical relationships.
+
+The size of a matrix is defined by its dimensions, written as "rows × columns" (e.g., a 2×3 matrix has 2 rows and 3 columns).
+
+Matrices can be added or subtracted if they have the same dimensions, and multiplication is defined for matrices where the number of columns in the first matrix matches the number of rows in the second.
+
+The determinant of a square matrix is a scalar value that provides important information about the matrix, such as whether it is invertible (non-zero determinant means it is invertible).
+
+The identity matrix is a square matrix with ones on the diagonal and zeros elsewhere, acting as the multiplicative identity in matrix multiplication.

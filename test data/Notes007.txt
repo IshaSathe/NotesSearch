@@ -1,0 +1,29 @@
+Class
+Economics
+
+Date
+2024-09-19
+
+Topic
+Supply & Demand
+
+Notes
+Supply and demand are fundamental concepts in economics that determine the price and quantity of goods and services in a market.
+
+Demand refers to the quantity of a good or service that consumers are willing and able to purchase at various prices.
+
+Supply refers to the quantity of a good or service that producers are willing and able to offer for sale at various prices.
+
+The law of demand states that as the price of a good decreases, the quantity demanded typically increases, and vice versa, assuming other factors are constant.
+
+The law of supply states that as the price of a good increases, the quantity supplied typically increases, and vice versa, assuming other factors are constant.
+
+The equilibrium price is the point where the supply and demand curves intersect, representing the price at which the quantity supplied equals the quantity demanded.
+
+A shift in the demand curve occurs when factors such as income, tastes, or the price of related goods change, altering the quantity demanded at every price.
+
+A shift in the supply curve occurs when factors such as production costs, technology, or the number of sellers change, altering the quantity supplied at every price.
+
+Price elasticity measures how sensitive the quantity demanded or supplied is to changes in price; goods with elastic demand or supply experience larger changes in quantity for a given price change.
+
+Market shortages occur when demand exceeds supply at a given price, while surpluses occur when supply exceeds demand. Both situations drive price adjustments toward equilibrium.

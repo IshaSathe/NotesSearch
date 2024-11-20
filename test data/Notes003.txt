@@ -1,0 +1,19 @@
+Class
+Biology
+
+Date
+2024-08-17
+
+Topic
+Evolution 
+
+Notes
+Evolution is the process through which species of organisms change over generations through variations in their genetic material.
+
+Natural selection, proposed by Charles Darwin, is a key mechanism of evolution, where individuals with advantageous traits are more likely to survive and reproduce.
+
+Mutations in DNA, genetic recombination, and gene flow contribute to the genetic diversity that drives evolutionary changes.
+
+Fossil records, comparative anatomy, and molecular biology provide evidence for the common ancestry of all living organisms.
+
+Evolution does not have a predetermined direction or goal; it is influenced by environmental pressures and random genetic changes.

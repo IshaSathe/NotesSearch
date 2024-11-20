@@ -1,0 +1,19 @@
+Class
+English
+
+Date
+2024-10-18
+
+Topic
+Citation
+
+Notes
+Reference citations are used to give credit to the original sources of information, ideas, or research in a work.
+
+Different citation styles exist, such as APA, MLA, Chicago, and Harvard, each with specific formatting rules.
+
+Citations typically include key information about the source, such as the author’s name, title, publication date, publisher, and location of the source.
+
+In-text citations provide brief information within the text that corresponds to a full reference in a bibliography or reference list.
+
+Proper citation helps avoid plagiarism, ensures academic integrity, and allows readers to locate and verify the original sources.

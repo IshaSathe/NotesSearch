@@ -1,0 +1,29 @@
+Class
+English
+
+Date
+2024-10-12
+
+Topic
+Punctuation
+
+Notes
+Punctuation marks are symbols used in writing to clarify meaning, indicate pauses, and structure sentences.
+
+The period (.) is used to end declarative sentences and some abbreviations.
+
+A comma (,) separates elements in a list, sets off introductory elements, and is used in complex sentences to clarify meaning.
+
+The question mark (?) is used at the end of interrogative sentences to indicate a question.
+
+The exclamation mark (!) conveys strong emotion, emphasis, or surprise.
+
+Quotation marks (" ") enclose direct speech, titles of short works, or words used with specific emphasis.
+
+The apostrophe (') is used to indicate possession or contractions, such as "it's" for "it is" or "John's book."
+
+The semicolon (;) connects closely related independent clauses and can also separate items in a complex list.
+
+The colon (:) introduces lists, explanations, or quotes and can also emphasize a point.
+
+Parentheses ( ) enclose supplementary or explanatory information that is not essential to the main sentence.
