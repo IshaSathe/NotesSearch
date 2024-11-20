@@ -83,11 +83,11 @@ Notes
           with torch.no_grad():
             output = model(**inputs)
 
-        # Use the mean of the last hidden state as the sentence embedding
-        embeddings = output.last_hidden_state.mean(dim=1).squeeze()
+          # Use the mean of the last hidden state as the sentence embedding
+          embeddings = output.last_hidden_state.mean(dim=1).squeeze()
 
-        # Convert to a numpy array
-        return embeddings.numpy()
+          # Convert to a numpy array
+          return embeddings.numpy()
         ```
       - Then a k-NN search query is executed, elasticsearch compares the `query_vector` against the `notes_vector` field of every document in the notebook index, it measures how close they are using cosine simmiliarity, and lists the top 10 results
 #### View Shards and Replications
@@ -108,7 +108,10 @@ Notes
    ```
    curl -X GET "http://localhost:9200/notebook_index/_search?preference=_shards:1&pretty" -H 'Content-Type: application/json' -d' { "_source": ["class", "date", "topic"], "query": { "match_all": {} } }'
    ```
-6. Simulate node failure 
+6. Take note of some of the notes and topics listed
+7. Simulate node failure `docker stop es-node2`
+8. Re-check index setting `http://localhost:9200/notebook_index/_settings?pretty` notice that `es-node2` is now down
+9. Go back to Note Search, search for one of the topics you noted in step 6, notice that it sill is findable
 
 
 
