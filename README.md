@@ -1,5 +1,6 @@
-# Notes Search
-> An app that allows you to upload and search notes
+![](https://github.com/IshaSathe/NotesSearch/blob/main/static/title.png)
+
+
 
 ## Capabilities
 - Upload notes as a plain text file in the following format
