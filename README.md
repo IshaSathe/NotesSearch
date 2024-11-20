@@ -28,7 +28,7 @@ Notes
 #### Install App
    1. clone repo
    2. run `docker-compose build --no-cache`
-   3. run `docker compose up`
+   3. run `docker-compose up`
    4. navigate to elasticsearch `http://localhost:9200/`
    5. navigate to app `http://127.0.0.1:5000/`
 #### Upload Data
